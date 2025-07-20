@@ -37,6 +37,7 @@ I'm a tech explorer and aspiring engineer with a passion for building impactful 
   <img src="https://github-readme-stats.vercel.app/api?username=DevXOmar&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevXOmar&theme=tokyo-night)
 ---
 
 ## 📬 Let’s Connect
