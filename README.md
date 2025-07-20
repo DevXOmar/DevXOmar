@@ -6,7 +6,6 @@ I'm a tech explorer and aspiring engineer with a passion for building impactful 
 
 ## 🧠 About Me
 - 🎯 I’m currently working on:  
-  `→ Surveillance Rover (Rakshak)` using ROS, LIDAR, and AI  
   `→ Satellite Super-Resolution` @ ISRO Hackathon  
   `→ 100 Days of Code` challenge
 
