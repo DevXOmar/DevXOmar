@@ -42,5 +42,5 @@ I'm a tech explorer and aspiring engineer with a passion for building impactful 
 
 ## 📬 Let’s Connect
 
-- 📫 [Reach me on LinkedIn](https://www.linkedin.com/in/your-link)
+- 📫 [Reach me on LinkedIn](https://www.linkedin.com/in/shaik-mohammed-omar/)
 - 🧠 [My Projects](https://github.com/DevXOmar?tab=repositories)
