@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Omar+👋;Aspiring+Engineer+%26+Tech+Explorer;AI+%7C+Robotics+%7C+Full+Stack;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00E7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Omar+%F0%9F%91%8B%3BAspiring+Engineer+%26+Tech+Explorer%3BAI+%7C+Robotics+%7C+Full+Stack%3BAlways+Learning+%7C+Always+Building" alt="Typing Animation" />
 </h1>
 
 <!-- Gradient Divider -->
