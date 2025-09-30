@@ -12,16 +12,23 @@
 
 ---
 
-## 🧠 About Me
-- 🎯 I’m currently working on:  
-  `→ Satellite Super-Resolution` @ ISRO Hackathon  
-  `→ 100 Days of Code` challenge  
+## 🧠 About Me  
 
-- 🚀 I love working on:  
-  AI/ML · Full Stack Dev · Robotics · Embedded Systems · Clean code  
+- 🎯 **Currently Exploring:**  
+  • Satellite Super-Resolution @ ISRO Hackathon  
+  • #100DaysOfCode Challenge  
 
-- 🧩 Traits:  
-  Maximizer · Builder · Fast Learner · Slightly obsessed with perfecting things  
+- 🚀 **Passionate About:**  
+  • Artificial Intelligence & Machine Learning  
+  • Full-Stack Development  
+  • Robotics & Embedded Systems  
+  • Writing clean, maintainable code  
+
+- 🧩 **Core Traits:**  
+  • Maximizer — driven to bring out the best in every project  
+  • Builder — thrive on creating impactful solutions  
+  • Fast Learner — quick to adapt and grow  
+  • Perfectionist — detail-oriented with a bias for excellence  
 
 ---
 
