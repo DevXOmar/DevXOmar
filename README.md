@@ -1,4 +1,4 @@
-# 💫 DevXOmar  
+# DevXOmar  
 
 <!-- Animated Typing Header -->
 <h1 align="center">
