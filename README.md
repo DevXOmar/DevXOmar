@@ -84,6 +84,23 @@
 
 ---
 
+## ⚡ Streaks & Achievements  
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=DevXOmar&theme=radical&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DevXOmar&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=Commit,PullRequest,Repositories,Followers,Issues" />
+</p>
+
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4b1f,100:ff9068&height=4&section=header&reversal=true&animation=twinkling" />
+</p>
+
 ## 📬 Let’s Connect
 
 <p align="center">
