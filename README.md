@@ -31,6 +31,11 @@
   • Perfectionist — detail-oriented with a bias for excellence  
 
 ---
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=true&animation=twinkling" />
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -59,6 +64,10 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 
+</p>
+<!-- Gradient Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&reversal=true&animation=twinkling" />
 </p>
 
 ---
