@@ -107,7 +107,6 @@
   <a href="mailto:shaikmohammedomar9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shaik-mohammed-omar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DevXOmar?tab=repositories"><img src="https://img.shields.io/badge/Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://devxomar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
