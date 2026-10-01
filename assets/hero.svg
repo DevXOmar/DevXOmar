@@ -1,0 +1,128 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shaik Mohammed Omar — DevXOmar</title>
+  <desc id="desc">Animated midnight-blue profile banner for Omar, an AI/ML and systems builder, SIH 2025 winner, and research intern at AICTE.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#07152F"/>
+      <stop offset="1" stop-color="#0B1026"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 118) rotate(151) scale(420 270)">
+      <stop stop-color="#22D3EE" stop-opacity="0.25"/>
+      <stop offset="0.5" stop-color="#2563EB" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="indigoGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1025 335) rotate(-145) scale(390 230)">
+      <stop stop-color="#6366F1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="760" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.72" stop-color="#D7F7FF"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="0.38" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="0.7" stop-color="#6366F1" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#7DD3FC" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <filter id="noise" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="2" seed="17"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 0.055"/></feComponentTransfer>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="390" rx="26"/></clipPath>
+    <style>
+      @keyframes dash { to { stroke-dashoffset: -180; } }
+      @keyframes blink { 0%,45% { opacity:1 } 50%,100% { opacity:.2 } }
+      @keyframes floatA { 0%,100% { transform: translateY(0px) } 50% { transform: translateY(-7px) } }
+      @keyframes floatB { 0%,100% { transform: translateY(0px) } 50% { transform: translateY(8px) } }
+      .border { animation: dash 7s linear infinite; }
+      .blink { animation: blink 1.7s ease-in-out infinite; }
+      .floatA { animation: floatA 6s ease-in-out infinite; transform-origin:center; }
+      .floatB { animation: floatB 8s ease-in-out infinite; transform-origin:center; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+    <rect width="1200" height="390" fill="url(#cyanGlow)"/>
+    <rect width="1200" height="390" fill="url(#indigoGlow)"/>
+    <rect width="1200" height="390" fill="url(#grid)"/>
+    <rect width="1200" height="390" filter="url(#noise)" opacity="0.26"/>
+
+    <!-- moving scan -->
+    <rect x="-260" y="0" width="260" height="390" fill="url(#scan)" opacity="0.9">
+      <animate attributeName="x" from="-260" to="1200" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- right-side signal fabric -->
+    <g opacity="0.42" stroke-linecap="round">
+      <path id="p1" d="M735 72C828 5 924 35 1008 96C1088 154 1123 141 1205 92" stroke="#22D3EE" stroke-opacity="0.37" stroke-width="1.3"/>
+      <path id="p2" d="M710 121C827 66 923 92 1012 156C1095 216 1148 188 1210 148" stroke="#38BDF8" stroke-opacity="0.23"/>
+      <path id="p3" d="M691 178C804 133 890 154 982 218C1079 286 1139 254 1210 211" stroke="#60A5FA" stroke-opacity="0.27"/>
+      <path id="p4" d="M695 243C799 204 900 205 1002 275C1099 341 1142 324 1216 280" stroke="#818CF8" stroke-opacity="0.24"/>
+      <path id="p5" d="M742 311C830 277 921 279 1008 330C1075 370 1130 367 1193 334" stroke="#6366F1" stroke-opacity="0.26"/>
+      <path d="M790 29C828 91 831 165 810 230C790 293 806 345 851 388" stroke="#22D3EE" stroke-opacity="0.11"/>
+      <path d="M895 7C929 74 940 141 925 207C908 278 932 334 985 391" stroke="#60A5FA" stroke-opacity="0.12"/>
+      <path d="M1001 0C1027 63 1045 124 1039 189C1033 257 1066 323 1122 391" stroke="#818CF8" stroke-opacity="0.11"/>
+    </g>
+
+    <g class="floatA">
+      <circle cx="843" cy="92" r="3.2" fill="#67E8F9"/>
+      <circle cx="843" cy="92" r="10" fill="#22D3EE" opacity="0.14" filter="url(#softGlow)"/>
+      <circle cx="1010" cy="156" r="2.8" fill="#93C5FD"/>
+      <circle cx="1010" cy="156" r="9" fill="#3B82F6" opacity="0.14" filter="url(#softGlow)"/>
+    </g>
+    <g class="floatB">
+      <circle cx="905" cy="245" r="3" fill="#A5B4FC"/>
+      <circle cx="905" cy="245" r="10" fill="#6366F1" opacity="0.13" filter="url(#softGlow)"/>
+      <circle cx="1115" cy="294" r="3.1" fill="#67E8F9"/>
+      <circle cx="1115" cy="294" r="11" fill="#22D3EE" opacity="0.12" filter="url(#softGlow)"/>
+    </g>
+
+    <circle r="3.2" fill="#67E8F9" filter="url(#softGlow)">
+      <animateMotion dur="5.5s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion>
+    </circle>
+    <circle r="2.7" fill="#818CF8">
+      <animateMotion dur="7s" begin="-2.2s" repeatCount="indefinite"><mpath href="#p4"/></animateMotion>
+    </circle>
+    <circle r="2.4" fill="#38BDF8">
+      <animateMotion dur="6.3s" begin="-4s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion>
+    </circle>
+
+    <!-- copy -->
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+      <circle cx="68" cy="67" r="4" fill="#22D3EE" class="blink"/>
+      <text x="83" y="72" fill="#67E8F9" font-size="13" font-weight="700" letter-spacing="3.3">DEVXOMAR // BUILDING WITH INTENT</text>
+
+      <text x="62" y="159" fill="url(#accent)" font-size="60" font-weight="760" letter-spacing="-2.2">Shaik Mohammed Omar</text>
+      <text x="65" y="205" fill="#A5F3FC" font-size="21" font-weight="560" letter-spacing="0.7">AI • ML • LLM RESEARCH • SYSTEMS</text>
+
+      <text x="65" y="251" fill="#CBD5E1" font-size="16" font-weight="500">B.Tech CSE @ KMIT ’28  ·  SIH ’25 Winner  ·  Research @ AICTE</text>
+      <text x="65" y="282" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.2">RESEARCH > ENGINEER > TEST > SHIP</text>
+
+      <rect x="64" y="315" width="342" height="34" rx="17" fill="#071B2E" stroke="#22D3EE" stroke-opacity="0.28"/>
+      <circle cx="86" cy="332" r="4" fill="#22C55E"/>
+      <text x="99" y="337" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.6">CURRENT SIGNAL: AI / CYBER / BACKEND</text>
+
+      <text x="1138" y="337" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.2">HYDERABAD · 2026</text>
+    </g>
+
+    <rect x="1" y="1" width="1198" height="388" rx="25" stroke="#22D3EE" stroke-opacity="0.12"/>
+    <rect class="border" x="2" y="2" width="1196" height="386" rx="24" stroke="url(#border)" stroke-width="1.6" stroke-dasharray="16 18" stroke-dashoffset="0" fill="none"/>
+  </g>
+</svg>

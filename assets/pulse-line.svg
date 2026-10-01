@@ -1,0 +1,21 @@
+<svg width="1200" height="24" viewBox="0 0 1200 24" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated cyan signal divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="0.48" stop-color="#38BDF8"/>
+      <stop offset="0.7" stop-color="#6366F1" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-300%" width="180%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+    <style>@keyframes move{to{stroke-dashoffset:-220}} .flow{animation:move 5.5s linear infinite}</style>
+  </defs>
+  <path d="M0 12H1200" stroke="#1E293B" stroke-width="1"/>
+  <path d="M0 12H1200" stroke="url(#line)" stroke-width="4" opacity="0.22" filter="url(#glow)"/>
+  <path class="flow" d="M0 12H1200" stroke="url(#line)" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="42 18"/>
+  <circle r="3" fill="#67E8F9">
+    <animate attributeName="cx" from="0" to="1200" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="12;12" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
