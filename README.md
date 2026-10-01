@@ -1,3 +1,40 @@
+<!-- =========================
+     DEVXOMAR — PROFILE README
+     Theme: Midnight Navy × Cyan × Blue × Violet
+     ========================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:07152F,70:1E3A8A,100:6D28D9&height=220&section=header&text=SHAIK%20MOHAMMED%20OMAR&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%E2%80%A2%20LLM%20Research%20%E2%80%A2%20Systems%20Engineering&descAlignY=56&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+with+intent.;SIH'25+Winner+%7C+Research+Intern+%40+AICTE;LLM+Research+%7C+AI%2FML+%7C+Systems;From+research+ideas+to+real-world+systems."
+    alt="Typing SVG"
+  />
+</a>
+
+
+<a href="https://www.linkedin.com/in/shaik-mohammed-omar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:i.am.s.m.omar97@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+</a>
+<a href="https://github.com/DevXOmar?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=8B5CF6"/>
+</a>
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=DevXOmar&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+~/omar — signal
 $ whoami
 
 Shaik Mohammed Omar
@@ -18,7 +55,6 @@ real-world product development
 $ philosophy
 
 build → test → refine → ship
-
 I’m a Computer Science undergraduate focused on building end-to-end intelligent systems across AI/ML, backend engineering, research, and applied systems.
 I enjoy problems where engineering depth matters — whether that means probing LLM internal states, designing scalable backend architectures, building autonomous systems, or turning a hackathon idea into something deployable.
 ⚡ Current Work
@@ -29,7 +65,6 @@ I enjoy problems where engineering depth matters — whether that means probing 
 🧠 LLM Research
 Researching LLM internal states, model behavior, probing, evaluation, and model improvement at LLM Lens Paradigm, while exploring new research directions and contributing to technical papers.
 </td>
-
 <td width="50%" valign="top">
 
 🛡️ AICTE Cybersecurity Research
@@ -43,7 +78,6 @@ Contributing to the refinement, testing, and enterprise-readiness of an SIH-deri
 🌐 PR KMIT
 Managing PR KMIT’s digital presence through official website development, maintenance, and event-focused web solutions.
 </td>
-
 <td width="50%" valign="top">
 
 🎤 Vachan
@@ -63,21 +97,18 @@ SIH ’25
 Winner
 TattvaDrishti
 </td>
-
 <td align="center" width="25%">
 
 Patent
 Published
 Rakshak
 </td>
-
 <td align="center" width="25%">
 
 Prakalp ’25
 Winner
 Rakshak
 </td>
-
 <td align="center" width="25%">
 
 Research
@@ -106,7 +137,6 @@ Stack:
 Python FastAPI Next.js Transformers Hugging Face Docker
 View Project →
 </td>
-
 <td width="50%" valign="top">
 
 🛡️ Rakshak
@@ -139,7 +169,6 @@ Stack:
 FastAPI PostgreSQL React JWT Celery RabbitMQ WebSockets
 View Project →
 </td>
-
 <td width="50%" valign="top">
 
 🎯 Habituate
@@ -206,7 +235,6 @@ Infra & Tools
 
 ! still optimizing everything
 ! still building with intent
-
 📊 Engineering Activity
 <div align="center">
 
@@ -274,7 +302,6 @@ applied:
   - autonomous systems
   - full-stack products
   - research-to-deployment workflows
-
 🌐 Beyond Code
 Engineering is a big part of what I do — but not the only part.
 - 🎤 Former Club Head of Vachan
