@@ -38,7 +38,6 @@
 
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevXOmar&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=3B82F6&ring_color=22D3EE&include_all_commits=true&rank_icon=github" alt="Omar's GitHub statistics" /> <img width="49%" src="https://streak-stats.demolab.com?user=DevXOmar&hide_border=true&background=020617&ring=22D3EE&fire=6366F1&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Omar's GitHub contribution streak" /> </p>
 
-<a href="https://github.com/DevXOmar"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevXOmar&bg_color=020617&color=CBD5E1&line=22D3EE&point=818CF8&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20activity" alt="Omar's GitHub contribution activity" /> </a>
 
 05 / Credentials & range
 
