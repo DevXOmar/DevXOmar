@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="./assets/hero.svg" width="100%" alt="Shaik Mohammed Omar — AI, ML, LLM Research and Systems" /> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/shaik-mohammed-omar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:i.am.s.m.omar97@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a> <a href="https://github.com/DevXOmar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" /></a> <img src="https://komarev.com/ghpvc/?username=DevXOmar&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shaik-mohammed-omar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:i.am.s.m.omar97@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a> <a href="https://github.com/DevXOmar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" /></a></p>
 
 <p align="center"> <strong>I build intelligent systems that need to work beyond the demo.</strong><br /> AI/ML research · LLM reliability · cyber-intelligence · backend systems · autonomous systems </p>
 
