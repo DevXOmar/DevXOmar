@@ -1,16 +1,16 @@
-
-<h1 align="center">Shaik Mohammed Omar</h1>
-
-<p align="center">
-  <strong>AI • ML • LLM Research • Systems</strong>
-</p>
-
 <p align="center">
   <img
     src="./assets/profile-banner.png"
     width="100%"
     alt="Shaik Mohammed Omar — Building with Intent"
   />
+</p>
+
+
+<h1 align="center">Shaik Mohammed Omar</h1>
+
+<p align="center">
+  <strong>AI • ML • LLM Research • Systems</strong>
 </p>
 
 <p align="center">
@@ -31,23 +31,6 @@
 
 <br />
 
-## 🎧 DXO // Featured Track
-
-<p align="center">
-  <a href="https://aren-radio-aren-radio.vercel.app/">
-    <img
-      src="https://aren-radio-aren-radio.vercel.app/api/card?track=more-than-you-know"
-      width="100%"
-      alt="DXO Radio — More Than You Know by Axwell /\ Ingrosso"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    More Than You Know · Axwell /\ Ingrosso · click the card to listen
-  </sub>
-</p>
 
 <table align="center"> <tr> <td align="center" width="25%"> <h3>SIH ’25</h3> <sub><strong>Winner</strong><br />TattvaDrishti</sub> </td> <td align="center" width="25%"> <h3>AICTE</h3> <sub><strong>Research Intern</strong><br />Cybersecurity</sub> </td> <td align="center" width="25%"> <h3>LLM Lens</h3> <sub><strong>Research Intern</strong><br />Model reliability</sub> </td> <td align="center" width="25%"> <h3>Rakshak</h3> <sub><strong>Published application</strong><br />Co-inventor</sub> </td> </tr> </table>
 
@@ -76,7 +59,27 @@
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevXOmar&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=3B82F6&ring_color=22D3EE&include_all_commits=true&rank_icon=github" alt="Omar's GitHub statistics" /> <img width="49%" src="https://streak-stats.demolab.com?user=DevXOmar&hide_border=true&background=020617&ring=22D3EE&fire=6366F1&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Omar's GitHub contribution streak" /> </p>
 
 
-05 / Credentials & range
+05 / Along the clock
+
+## 🎧 DXO // Featured Track
+
+<p align="center">
+  <a href="https://aren-radio-aren-radio.vercel.app/">
+    <img
+      src="https://aren-radio-aren-radio.vercel.app/api/card?track=more-than-you-know"
+      width="100%"
+      alt="DXO Radio — More Than You Know by Axwell /\ Ingrosso"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    More Than You Know · Axwell /\ Ingrosso · click the card to listen
+  </sub>
+</p>
+
+06 / Credentials & range
 
 <details> <summary><strong>Certifications</strong></summary> <br />
 
