@@ -19,11 +19,18 @@
 
 <!-- DevXOmar / profile README Visual system: Midnight Navy × Electric Cyan × Indigo North star: polished research/engineering profile with restrained motion. -->
 
-<p align="center"> <img src="./assets/hero.svg" width="100%" alt="Shaik Mohammed Omar — AI, ML, LLM Research and Systems" /> </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/shaik-mohammed-omar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:i.am.s.m.omar97@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0B1220?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a> <a href="https://github.com/DevXOmar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" /></a></p>
 
 <p align="center"> <strong>I build intelligent systems that need to work beyond the demo.</strong><br /> AI/ML research · LLM reliability · cyber-intelligence · backend systems · autonomous systems </p>
+
+<p align="center">
+  <img
+    src="./assets/systems-map.svg"
+    width="100%"
+    alt="DevXOmar system map — AI, LLM reliability, cyber intelligence and systems"
+  />
+</p>
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
