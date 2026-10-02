@@ -31,6 +31,24 @@
 
 <br />
 
+## 🎧 DXO // Featured Track
+
+<p align="center">
+  <a href="https://aren-radio-aren-radio.vercel.app/">
+    <img
+      src="https://aren-radio-aren-radio.vercel.app/api/card?track=more-than-you-know"
+      width="100%"
+      alt="DXO Radio — More Than You Know by Axwell /\ Ingrosso"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    More Than You Know · Axwell /\ Ingrosso · click the card to listen
+  </sub>
+</p>
+
 <table align="center"> <tr> <td align="center" width="25%"> <h3>SIH ’25</h3> <sub><strong>Winner</strong><br />TattvaDrishti</sub> </td> <td align="center" width="25%"> <h3>AICTE</h3> <sub><strong>Research Intern</strong><br />Cybersecurity</sub> </td> <td align="center" width="25%"> <h3>LLM Lens</h3> <sub><strong>Research Intern</strong><br />Model reliability</sub> </td> <td align="center" width="25%"> <h3>Rakshak</h3> <sub><strong>Published application</strong><br />Co-inventor</sub> </td> </tr> </table>
 
 01 / Current signal
