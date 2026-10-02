@@ -34,7 +34,7 @@
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
-<p align="center"> <img src="./assets/terminalx.svg" width="100%" alt="DevXOmar terminal — current work and focus" /> </p>
+<p align="center"> <img src="./assets/terminalsx.svg" width="100%" alt="DevXOmar terminal — current work and focus" /> </p>
 
 <br />
 
