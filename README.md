@@ -1,14 +1,16 @@
-<p align="center">
-  <img
-    src="./assets/DevXOmar-night-lab.gif"
-    width="100%"
-    alt="DevXOmar — Building with intent | AI, ML, LLM Research and Systems"
-  />
-</p>
+
 <h1 align="center">Shaik Mohammed Omar</h1>
 
 <p align="center">
   <strong>AI • ML • LLM Research • Systems</strong>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    width="100%"
+    alt="Shaik Mohammed Omar — Building with Intent"
+  />
 </p>
 
 <p align="center">
