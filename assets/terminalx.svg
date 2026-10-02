@@ -1,0 +1,132 @@
+<svg width="1200" height="318" viewBox="0 0 1200 318" fill="none"
+  xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DevXOmar engineering terminal</title>
+  <desc id="desc">A terminal-style view of Omar's engineering principles, default constraints, build loop, and ship gates.</desc>
+
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1200" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="0.55" stop-color="#06101F"/>
+      <stop offset="1" stop-color="#071525"/>
+    </linearGradient>
+
+    <linearGradient id="top" x1="0" y1="0" x2="1200" y2="0">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#07101D"/>
+    </linearGradient>
+
+    <linearGradient id="edgeGrad" x1="0" y1="0" x2="1200" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity=".18"/>
+      <stop offset=".45" stop-color="#22D3EE" stop-opacity=".42"/>
+      <stop offset=".78" stop-color="#6366F1" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity=".16"/>
+    </linearGradient>
+
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1010 238) rotate(180) scale(330 170)">
+      <stop stop-color="#22D3EE" stop-opacity=".055"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+    <style>
+      @keyframes blink {
+        0%, 46% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes dash {
+        to { stroke-dashoffset: -160; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .45; }
+        50% { opacity: 1; }
+      }
+
+      .cursor { animation: blink 1.05s steps(1,end) infinite; }
+      .edge { animation: dash 7s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .cursor,.edge,.pulse { animation: none !important; }
+      }
+    </style>
+  </defs>
+
+  <!-- shell -->
+  <rect x="1" y="1" width="1198" height="316" rx="20" fill="url(#shell)" stroke="#1E293B"/>
+  <rect x="1" y="1" width="1198" height="316" rx="20" fill="url(#ambient)"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="1198" height="48" rx="20" fill="url(#top)"/>
+  <path d="M1 49H1199" stroke="#1E293B"/>
+
+  <circle cx="27" cy="25" r="6" fill="#F87171"/>
+  <circle cx="49" cy="25" r="6" fill="#FBBF24"/>
+  <circle cx="71" cy="25" r="6" fill="#34D399"/>
+
+  <text x="600" y="30" text-anchor="middle" fill="#64748B"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+    font-size="12" letter-spacing="1">omar@devx — ~/engineering</text>
+
+  <!-- terminal content -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5">
+
+    <!-- principles -->
+    <text x="35" y="83" fill="#22D3EE">omar@devx:~$</text>
+    <text x="164" y="83" fill="#E2E8F0">cat principles</text>
+    <text x="35" y="109" fill="#94A3B8">measure before claiming  ·  trace failure paths  ·  keep operators in control</text>
+
+    <!-- constraints -->
+    <text x="35" y="148" fill="#22D3EE">omar@devx:~$</text>
+    <text x="164" y="148" fill="#E2E8F0">constraints --default</text>
+    <text x="35" y="174" fill="#94A3B8">explainable  ·  observable  ·  secure-by-design  ·  offline-capable where needed</text>
+
+    <!-- loop -->
+    <text x="35" y="213" fill="#22D3EE">omar@devx:~$</text>
+    <text x="164" y="213" fill="#E2E8F0">loop</text>
+
+    <text x="35" y="239" fill="#94A3B8">research</text>
+    <text x="104" y="239" fill="#475569">&gt;</text>
+    <text x="124" y="239" fill="#94A3B8">prototype</text>
+    <text x="203" y="239" fill="#475569">&gt;</text>
+    <text x="223" y="239" fill="#94A3B8">benchmark</text>
+    <text x="307" y="239" fill="#475569">&gt;</text>
+    <text x="327" y="239" fill="#94A3B8">harden</text>
+    <text x="384" y="239" fill="#475569">&gt;</text>
+    <text x="404" y="239" fill="#67E8F9">ship</text>
+
+    <!-- ship gate -->
+    <text x="35" y="278" fill="#22D3EE">omar@devx:~$</text>
+    <text x="164" y="278" fill="#E2E8F0">ship --gate</text>
+
+    <text x="35" y="303" fill="#94A3B8">reproducible</text>
+    <text x="131" y="303" fill="#34D399">[pass]</text>
+
+    <text x="190" y="303" fill="#94A3B8">failure-aware</text>
+    <text x="294" y="303" fill="#34D399">[pass]</text>
+
+    <text x="353" y="303" fill="#94A3B8">operator-ready</text>
+    <text x="465" y="303" fill="#34D399">[pass]</text>
+
+    <text x="524" y="303" fill="#94A3B8">evidence-linked</text>
+    <text x="643" y="303" fill="#34D399">[pass]</text>
+
+    <rect class="cursor" x="704" y="289" width="9" height="16" fill="#67E8F9"/>
+  </g>
+
+  <!-- quiet right-side signal -->
+  <g opacity=".72">
+    <path d="M1002 269H1044L1051 262L1058 276L1067 250L1076 271L1085 269H1136"
+      stroke="#22D3EE" stroke-width="1.15" fill="none"/>
+    <circle cx="1149" cy="282" r="3.5" fill="#22D3EE" class="pulse"/>
+    <circle cx="1149" cy="282" r="10" fill="#22D3EE" opacity=".12" filter="url(#glow)"/>
+  </g>
+
+  <!-- animated frame -->
+  <rect class="edge" x="2" y="2" width="1196" height="314" rx="19"
+    fill="none" stroke="url(#edgeGrad)" stroke-width="1.2"
+    stroke-dasharray="18 24"/>
+</svg>
