@@ -41,19 +41,19 @@
 
 <table align="center"> <tr> <td align="center" width="25%"> <h3>SIH ’25</h3> <sub><strong>Winner</strong><br />TattvaDrishti</sub> </td> <td align="center" width="25%"> <h3>AICTE</h3> <sub><strong>Research Intern</strong><br />Cybersecurity</sub> </td> <td align="center" width="25%"> <h3>LLM Lens</h3> <sub><strong>Research Intern</strong><br />Model reliability</sub> </td> <td align="center" width="25%"> <h3>Rakshak</h3> <sub><strong>Published application</strong><br />Co-inventor</sub> </td> </tr> </table>
 
-01 / Current signal
+## 01 / Current signal
 
 <table> <tr> <td width="50%" valign="top"> <h3> Cybersecurity Research · AICTE</h3> <p>Advancing an SIH-derived cybersecurity system through research, validation, testing, and enterprise-focused refinement.</p> </td> <td width="50%" valign="top"> <h3> LLM Research · LLM Lens Paradigm</h3> <p>Studying LLM internal states and model behavior through probing, evaluation, uncertainty analysis, and experiments around model reliability.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3> TATTVASTRA / JOCKY</h3> <p>Current systems + cybersecurity build, with a public product surface for the JOCKY project.</p> <p><a href="https://github.com/DevXOmar/Tattvastra-website"><strong>Open product repository ↗</strong></a></p> </td> <td width="50%" valign="top"> <h3> PR KMIT</h3> <p>Building and maintaining the digital layer behind PR KMIT, including the official website and event-focused web systems.</p> </td> </tr> </table>
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
-02 / Selected systems
+## 02 / Selected systems
 
 <table> <tr> <td width="50%" valign="top"> <h3> TattvaDrishti</h3> <p><strong>Smart India Hackathon 2025 Winner</strong></p> <p>An analyst-facing intelligence platform for detecting AI-generated and coordinated malign information operations, with multi-layer risk scoring, graph intelligence, provenance, and secure sharing.</p> <p><code>FastAPI</code> <code>Next.js</code> <code>DeBERTa-v3</code> <code>Transformers</code> <code>NetworkX</code></p> <p><a href="https://github.com/Team-ASHTOJ/TattvaDrishti"><strong>View repository ↗</strong></a></p> </td> <td width="50%" valign="top"> <h3> Paytm Grow</h3> <p><strong>Merchant-growth intelligence prototype</strong></p> <p>A Paytm-style merchant intelligence layer combining loyalty and CLV modeling, forecasting, peer-price benchmarking, adaptive rewards, and explainable loan-readiness coaching.</p> <p><code>FastAPI</code> <code>React</code> <code>TypeScript</code> <code>BG/NBD</code> <code>Holt-Winters</code> <code>SHAP</code></p> <p><a href="https://github.com/DevXOmar/PaytmGrow"><strong>View repository ↗</strong></a></p> </td> </tr> <tr> <td width="50%" valign="top"> <h3> Rakshak</h3> <p><strong>Prakalp ’25 Winner · Patent application published</strong></p> <p>An autonomous surveillance rover combining GPS waypoint navigation, LiDAR obstacle avoidance, computer vision, telemetry, and human takeover for security and patrolling workflows.</p> <p><code>Jetson Nano</code> <code>Pixhawk</code> <code>LiDAR</code> <code>OpenCV</code> <code>ArduPilot</code></p> <p><a href="https://github.com/DevXOmar/rakshak-files"><strong>View project files ↗</strong></a></p> </td> <td width="50%" valign="top"> <h3> Nyord</h3> <p><strong>Full-stack banking system</strong></p> <p>A backend-heavy banking platform with customer/admin workflows across accounts, transfers, loans, cards, QR payments, background processing, and real-time notifications.</p> <p><code>FastAPI</code> <code>PostgreSQL</code> <code>RabbitMQ</code> <code>Celery</code> <code>WebSockets</code></p> <p><a href="https://github.com/DevXOmar/Nyord"><strong>View repository ↗</strong></a></p> </td> </tr> </table>
 
 <p align="right"> <a href="https://github.com/DevXOmar?tab=repositories"><strong>Explore all repositories →</strong></a> </p>
 
-03 / Working set
+## 03 / Working set
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,pytorch,tensorflow,opencv,fastapi,nodejs,postgres,mongodb,redis,react,nextjs,tailwind,docker,git,github,githubactions,linux,azure,vscode&perline=12&theme=dark" alt="Omar's engineering stack" /> </p>
 
@@ -61,12 +61,12 @@
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
-04 / Live engineering signal
+## 04 / Live engineering signal
 
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevXOmar&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=3B82F6&ring_color=22D3EE&include_all_commits=true&rank_icon=github" alt="Omar's GitHub statistics" /> <img width="49%" src="https://streak-stats.demolab.com?user=DevXOmar&hide_border=true&background=020617&ring=22D3EE&fire=6366F1&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Omar's GitHub contribution streak" /> </p>
 
 
-05 / Along the clock
+## 05 / Along the clock
 
 ## 🎧 DXO // Featured Track
 
@@ -86,7 +86,7 @@
   </sub>
 </p>
 
-06 / Credentials & range
+## 06 / Credentials & range
 
 <details> <summary><strong>Certifications</strong></summary> <br />
 
