@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/devxomar-night-lab.gif"
+    src="./assets/DevXOmar-night-lab.gif"
     width="100%"
     alt="DevXOmar — Building with intent | AI, ML, LLM Research and Systems"
   />
