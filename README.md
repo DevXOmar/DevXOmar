@@ -61,14 +61,11 @@
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
-## 04 / Live engineering signal
-
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevXOmar&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1&icon_color=3B82F6&ring_color=22D3EE&include_all_commits=true&rank_icon=github" alt="Omar's GitHub statistics" /> <img width="49%" src="https://streak-stats.demolab.com?user=DevXOmar&hide_border=true&background=020617&ring=22D3EE&fire=6366F1&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Omar's GitHub contribution streak" /> </p>
 
 
-## 05 / Along the clock
+## 04 / Along the clock
 
-## 🎧 DXO // Featured Track
+## 🎧 Featured Track
 
 <p align="center">
   <a href="https://aren-radio-aren-radio.vercel.app/">
@@ -86,12 +83,12 @@
   </sub>
 </p>
 
-## 06 / Credentials & range
+## 05 / Credentials & range
 
 <details> <summary><strong>Certifications</strong></summary> <br />
 
-•	IBM RAG and Agentic AI Professional Certificate — RAG, vector databases, multimodal AI, LangChain, LangGraph, CrewAI, AutoGen, BeeAI, MCP, and agent development.
-•	ServiceNow Certified System Administrator — platform administration, workflows, CMDB, access control, automation, and analytics.
+•	IBM RAG & Agentic AI Professional Certificate — RAG, multimodal AI and agentic systems.
+• ServiceNow Certified System Administrator.
 •	Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate.
 •	Oracle Cloud Infrastructure 2025 Certified Foundations Associate.
 
@@ -108,7 +105,6 @@
 
 </details>
 
-<!-- LIVE MUSIC SLOT I deliberately keep this hidden until a personal Spotify/Last.fm feed is connected. Once novatorem is deployed for DevXOmar, insert the live card here, e.g.: [[Now Playing](https://YOUR-NOVATOREM-DEPLOYMENT/api/orchestrator?background_type=blur_dark&border_color=22D3EE&show_status=true)](YOUR_SPOTIFY_OR_LASTFM_PROFILE) -->
 
 <p align="center"> <img src="./assets/pulse-line.svg" width="100%" alt="Animated signal divider" /> </p>
 
@@ -116,4 +112,4 @@
 
 <p align="center"> <a href="mailto:i.am.s.m.omar97@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/shaik-mohammed-omar/">LinkedIn</a> · <a href="https://github.com/DevXOmar?tab=repositories">Repositories</a> </p>
 
-<p align="center"> <sub>BUILDING WITH INTENT · DEVXOMAR / 2026</sub> </p>
+<p align="center"> <sub>BUILDING WITH INTENT · DEVXOMAR </sub> </p>
