@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./assets/profile-banner-refined.png"
     width="100%"
     alt="Shaik Mohammed Omar — Building with Intent"
   />
