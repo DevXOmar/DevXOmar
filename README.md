@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="./assets/systems-map.svg"
+    src="./assets/systems-mapping.svg"
     width="100%"
     alt="DevXOmar system map — AI, LLM reliability, cyber intelligence and systems"
   />
