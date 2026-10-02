@@ -1,3 +1,20 @@
+<p align="center">
+  <img
+    src="./assets/devxomar-night-lab.gif"
+    width="100%"
+    alt="DevXOmar — Building with intent | AI, ML, LLM Research and Systems"
+  />
+</p>
+<h1 align="center">Shaik Mohammed Omar</h1>
+
+<p align="center">
+  <strong>AI • ML • LLM Research • Systems</strong>
+</p>
+
+<p align="center">
+  SIH’25 Winner · Research @ AICTE · B.Tech CSE @ KMIT ’28
+</p>
+
 <!-- DevXOmar / profile README Visual system: Midnight Navy × Electric Cyan × Indigo North star: polished research/engineering profile with restrained motion. -->
 
 <p align="center"> <img src="./assets/hero.svg" width="100%" alt="Shaik Mohammed Omar — AI, ML, LLM Research and Systems" /> </p>
